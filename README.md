@@ -1,5 +1,7 @@
 
-# Hi there 👋 I'm <h1 style="text-shadow: 0 0 10px #38F7A7, 0 0 20px #38F7A7">Harshit Wadichar!</h1>
+# Hi there
+
+<h1 style="text-shadow: 0 0 10px #38F7A7, 0 0 20px #38F7A7">👋 I'm Harshit Wadichar!</h1>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=38F7A7&width=435&lines=Full+Stack+Developer;Open+Source+Enthusiast;Tech+Writer)](https://git.io/typing-svg)
 
@@ -21,10 +23,6 @@
   <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" alt="MongoDB">
 </div>
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=c,py,javascript,html,css,bootstrap,react,nodejs,postman,mongodb,mysql&theme=dark&perline=6" />
-</div>
-
 ### 🔗 Let's Connect
 <div align="left">
   <a href="https://www.linkedin.com/in/harshit-wadichar-12b4482bb" target="_blank">
@@ -36,6 +34,15 @@
   </a>
 </div>
 
-
-
+### 💻 My Development Setup
+```console
+$ harshit@portfolio:~ 
+$ npm run create-awesome-projects
+███████ ██   ██  █████  ██████  
+██      ██   ██ ██   ██ ██   ██ 
+███████ ███████ ███████ ██████  
+     ██ ██   ██ ██   ██ ██      
+███████ ██   ██ ██   ██ ██      
+> Building project [██████████] 100%
+> Success! Deployed to production
 
