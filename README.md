@@ -1,12 +1,5 @@
-<!-- Add to top of README -->
-<script src="https://cdn.jsdelivr.net/particles.js/2.0.0/particles.min.js"></script>
-<div id="particles-js"></div>
-<script>
-  particlesJS.load('particles-js', 'particles.json', function() {
-    console.log('Particles loaded!');
-  });
-</script>
-# Hi there 👋 I'm Harshit Wadichar!
+
+# Hi there 👋 I'm <h1 style="text-shadow: 0 0 10px #38F7A7, 0 0 20px #38F7A7">Harshit Wadichar!</h1>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=38F7A7&width=435&lines=Full+Stack+Developer;Open+Source+Enthusiast;Tech+Writer)](https://git.io/typing-svg)
 
@@ -38,11 +31,11 @@
     <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="40" alt="LinkedIn">
   </a>
  
-  <a href="mailto:manohar.wadichar9545@gmail.com" target="_blank" style="margin-left:10px">
+  <a href="manohar.wadichar9545@gmail.com" target="_blank" style="margin-left:10px">
     <img src="https://img.icons8.com/color/48/000000/gmail.png" width="40" alt="Email">
   </a>
 </div>
 
-<h1 style="text-shadow: 0 0 10px #38F7A7, 0 0 20px #38F7A7">Harshit Wadichar</h1>
+
 
 
