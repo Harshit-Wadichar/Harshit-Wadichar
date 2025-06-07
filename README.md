@@ -20,19 +20,6 @@
   <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" alt="MongoDB">
 </div>
 
-### ⚡ GitHub Stats
-<div align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=harshitwadichar&theme=dark&hide_border=true&background=0D1117" alt="GitHub Streak">
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=harshitwadichar&show_icons=true&theme=vision-friendly-dark&hide_border=true" alt="GitHub Stats">
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshitwadichar&layout=compact&theme=vision-friendly-dark&hide_border=true&langs_count=8" alt="Top Languages">
-  </a>
-</div>
-
 ### 🔗 Let's Connect
 <div align="left">
   <a href="https://www.linkedin.com/in/harshit-wadichar-12b4482bb" target="_blank">
@@ -44,5 +31,8 @@
   </a>
 </div>
 
-### 🐍 Contribution Snake
-![Contribution Snake](https://raw.githubusercontent.com/harshitwadichar/harshitwadichar/output/github-contribution-grid-snake.svg)
+graph TD;
+    A[Code] --> B(Build);
+    B --> C{Test};
+    C -->|Pass| D[Deploy];
+    C -->|Fail| E[Debug];
