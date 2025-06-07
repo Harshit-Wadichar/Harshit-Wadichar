@@ -1,3 +1,11 @@
+<!-- Add to top of README -->
+<script src="https://cdn.jsdelivr.net/particles.js/2.0.0/particles.min.js"></script>
+<div id="particles-js"></div>
+<script>
+  particlesJS.load('particles-js', 'particles.json', function() {
+    console.log('Particles loaded!');
+  });
+</script>
 # Hi there 👋 I'm Harshit Wadichar!
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=38F7A7&width=435&lines=Full+Stack+Developer;Open+Source+Enthusiast;Tech+Writer)](https://git.io/typing-svg)
@@ -20,6 +28,10 @@
   <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" alt="MongoDB">
 </div>
 
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=c,py,javascript,html,css,bootstrap,react,nodejs,postman,mongodb,mysql&theme=dark&perline=6" />
+</div>
+
 ### 🔗 Let's Connect
 <div align="left">
   <a href="https://www.linkedin.com/in/harshit-wadichar-12b4482bb" target="_blank">
@@ -31,8 +43,6 @@
   </a>
 </div>
 
-graph TD;
-    A[Code] --> B(Build);
-    B --> C{Test};
-    C -->|Pass| D[Deploy];
-    C -->|Fail| E[Debug];
+<h1 style="text-shadow: 0 0 10px #38F7A7, 0 0 20px #38F7A7">Harshit Wadichar</h1>
+
+
