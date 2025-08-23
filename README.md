@@ -11,7 +11,6 @@
 ## 🚀 About Me
 - 🎓 Pursuing **B.Tech in Computer Science and Engineering** (Graduating in 2026)  
 - 🌱 Currently Learning: **Java & Data Structures and Algorithms (DSA)**  
-- ✅ Completed Project: **Smart Teacher Evaluation Platform (STEP)**  
 - 💻 Skills & Expertise:  
   - **Frontend:** HTML, CSS, Tailwind CSS, Bootstrap, JavaScript, React.js  
   - **Backend:** Node.js, Express.js, Socket.io  
@@ -19,7 +18,7 @@
   - **Programming Languages:** C, Java, Python  
   - **Version Control & Tools:** Git, GitHub  
 - 🧠 Passion: Problem-solving, Web Development, and exploring AI/ML  
-- 📫 Reach me: **your-email@example.com**  
+- 📫 Reach me: **manohar.wadichar9545@gmail.com**  
 
 ---
 
