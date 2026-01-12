@@ -1,78 +1,111 @@
----
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=82C8E5&vCenter=true&multiline=true&width=600&height=100&lines=👋+Hi!+I'm+Harshit+Wadichar;CSE+Undergrad+%26+Full+Stack+Dev" alt="Typing SVG" />
+  </a>
+</div>
 
-<!-- Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=00F7FF&vCenter=true&multiline=true&width=600&height=80&lines=👋+Welcome+to+My+Profile!;I'm+Harshit+Wadichar+-+CSE+Student+%26+Developer)](https://git.io/typing-svg)
-
-<!-- Profile Views -->
-![Profile Views](https://komarev.com/ghpvc/?username=Harshit-Wadichar&color=blue&style=flat-square)
-
----
-
-## 🚀 About Me
-- 🎓 Pursuing **B.Tech in Computer Science and Engineering** (Graduating in 2026)  
-- 🌱 Currently Learning: **Java & Data Structures and Algorithms (DSA)**  
-- 💻 Skills & Expertise:  
-  - **Frontend:** HTML, CSS, Tailwind CSS, Bootstrap, JavaScript, React.js  
-  - **Backend:** Node.js, Express.js, Socket.io  
-  - **Databases:** SQL, MongoDB  
-  - **Programming Languages:** C, Java, Python  
-  - **Version Control & Tools:** Git, GitHub  
-- 🧠 Passion: Problem-solving, Web Development, and exploring AI/ML  
-- 📫 Reach me: **manohar.wadichar9545@gmail.com**  
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Harshit-Wadichar&color=82C8E5&style=flat-square" alt="Profile Views" />
+</div>
 
 ---
 
-## 💻 Tech Stack
+## 👨‍💻 About Me
 
-### **Languages & Frameworks**
+- 🎓 **Education:** B.Tech in Computer Science and Engineering (2026 Batch).
+- 🔭 **Working on:** 3D Web Experiences & Machine Learning.
+- 🌱 **Learning:** Advanced DSA, System Design, and Generative AI.
+
+<div align="center">
+
+  <a href="https://three-js-portfolio-coral.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Visit_My_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  
+
+</div>
+
+---
+🚀 Skills & Tech Stack
+
+### 🎨 Frontend
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,threejs,tailwind,bootstrap&perline=9&theme=dark" />
+  </a>
+</div>
+
+### ⚙️ Backend & Databases
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,prisma,mongodb,mysql&perline=9&theme=dark" />
+  </a>
+</div>
+
+### 🤖 Machine Learning & Data
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,pytorch,sklearn&perline=9&theme=dark" />
+  </a>
+  <br/><br/>
+  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=python&logoColor=black" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+</div>
+
+### 🛠️ Tools & Platforms
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,postman&perline=9&theme=dark" />
+  </a>
+  <br/><br/>
+  <img src="https://img.shields.io/badge/Next_Auth-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" />
+</div>
+
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Harshit-Wadichar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" height="160" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshit-Wadichar&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" height="160" alt="languages graph" />
+</div>
+
+<div align="center">
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=Harshit-Wadichar&theme=tokyonight&hide_border=true&background=00000000" alt="GitHub Streak" />
+</div>
+
+---
+
+### 🧩 Hobbies & Interests
+- 🗺️ **Cartography & Infographics:** Creating detailed maps and data visualizations.
+- ⛩️ **Anime:** Huge fan of **Attack on Titan**, **Dr. Stone**, and **Naruto**.
+- 🎨 **Creative Coding:** Exploring Three.js and React Fiber.
+
+
+
+## 🔗 Let's Connect
+
+<div align="center">
+  <a href="mailto:manohar.wadichar9545@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://linkedin.com/in/harshit-wadichar-12b4482bb">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</div>
+
 <p align="center">
-  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"><img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white&style=for-the-badge" /></a>
-  <a href="https://www.java.com/" target="_blank"><img src="https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white&style=for-the-badge" /></a>
-  <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/JavaScript-000000?logo=javascript&logoColor=F7DF1E&style=for-the-badge" /></a>
-  <a href="https://reactjs.org/" target="_blank"><img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=for-the-badge" /></a>
-  <a href="https://nodejs.org/" target="_blank"><img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge" /></a>
-  <a href="https://expressjs.com/" target="_blank"><img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white&style=for-the-badge" /></a>
-  <a href="https://socket.io/" target="_blank"><img src="https://img.shields.io/badge/Socket.io-010101?logo=socketdotio&logoColor=white&style=for-the-badge" /></a>
-  <a href="https://www.mongodb.com/" target="_blank"><img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" /></a>
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" /></a>
+  <br>
+  <i>"Ten billion percent sure I can code it." — (Dr. Stone Reference) 🧪</i>
 </p>
 
-
-### **Styling**
-<p align="center">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5" target="_blank"><img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" /></a>
-  <a href="https://tailwindcss.com/" target="_blank"><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwindcss&logoColor=white&style=for-the-badge" /></a>
-  <a href="https://getbootstrap.com/" target="_blank"><img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge" /></a>
-</p>
-
-
-### **Version Control**
-<p align="center">
-  <a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" /></a>
-  <a href="https://github.com/" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" /></a>
-</p>
-
-
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Harshit-Wadichar&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="160"/>
-  <img src="https://streak-stats.demolab.com?user=Harshit-Wadichar&theme=tokyonight&hide_border=false" alt="GitHub Streak" height="160"/>
-</p>
-
----
-
-## 🔗 Connect With Me
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white)](mailto:manohar.wadichar9545@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/harshit-wadichar-12b4482bb)  
-
----
-
-✨ Thanks for visiting my profile! Always open to learning, collaborating, and building innovative projects 🚀
-
-
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=82C8E5&vCenter=true&multiline=true&width=600&height=100&lines=🙏Thanks+for+visiting+my+profile;" alt="Typing SVG" />
+  </a>
+</div>
