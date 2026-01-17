@@ -32,8 +32,6 @@ I am a passionate Full Stack Developer and Machine Learning enthusiast. My codin
 
 ### 💻 Tech Stack
 
-### 💻 Tech Stack
-
 <div align="center">
   <table style="border: none;">
     <tr>
@@ -109,7 +107,7 @@ I am a passionate Full Stack Developer and Machine Learning enthusiast. My codin
     <tr style="border: none;">
       <td width="50%" align="center" style="border: none;">
          <h4>🌏 Cartography & Infographics</h4>
-         <p>I have a deep passion for <b>Cartography</b>—creating detailed, custom maps—and designing <b>Infographics</b>. I enjoy the process of turning complex data into visually intuitive and artistic stories.</p>
+         <p>I have a deep passion for <b>Cartography</b> creating detailed, custom maps and designing <b>Infographics</b>. I enjoy the process of turning complex data into visually intuitive and artistic stories.</p>
       </td>
       <td width="50%" align="center" style="border: none;">
          <h4>⛩️ Anime Enthusiast</h4>
